@@ -1,0 +1,12 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb+srv://gnanaprakashpragada73738:projectspace@cluster0.hqolpzh.mongodb.net/Cluster0?retryWrites=true&w=majority&appName=Cluster0"
+    },
+    "jwt": {
+        "secret" : "Examination Portal Application"
+    },
+    "mail-credentials" : {
+        "userid" :"kushal@gmail.com",
+        "password" : "123"
+    }
+}
