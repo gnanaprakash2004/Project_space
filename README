@@ -1,5 +1,5 @@
 Name : Online Examination System
-Technologies : React js, Node js, Express js, Mongo Db, Ant Design, Redux js
+Technologies : React js, Node js, Express js, Mongo Db, Redux js
 Key features:
     1. User management
     2. Modular code
@@ -8,7 +8,6 @@ Key features:
     5. Examination results using graphs
     6. Results can directly be downloaded as excel sheet
     7. Feedback system
-
 
 
 Steps to use:
